@@ -10,12 +10,26 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "multer": "^2.0.1",
     "node-record-lpcm16": "^1.0.1",
     "openai": "^4.104.0",
     "play-sound": "^1.1.6"
   },
   "devDependencies": {
-    "tsx": "^4.0.0",
+    "tsx": "^4.20.3",
     "typescript": "^5.0.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimradev064/Voice-Call-Scripts-Agent-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimradev064/Voice-Call-Scripts-Agent-/issues"
+  },
+  "homepage": "https://github.com/nimradev064/Voice-Call-Scripts-Agent-#readme"
 }
